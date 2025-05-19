@@ -203,4 +203,4 @@ class Wallet {
   }
 }
 
-module.exports = { Blockchain, Transaction, Block, Wallet }; 
+module.exports = { Blockchain, Transaction, Block, Wallet };
