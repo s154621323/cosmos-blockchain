@@ -1,2 +1,2 @@
 // 导入服务器
-require('./src/server'); 
+require('./src/server');

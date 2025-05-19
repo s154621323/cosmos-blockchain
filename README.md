@@ -14,8 +14,8 @@
 
 ```bash
 # 克隆项目
-git clone [仓库地址]
-cd cosmos
+git clone [https://github.com/s154621323/cosmos-blockchain.git]
+cd cosmos-blockchain
 
 # 安装依赖
 npm install
@@ -110,4 +110,4 @@ Content-Type: application/json
 
 ## 许可证
 
-MIT 
+MIT
