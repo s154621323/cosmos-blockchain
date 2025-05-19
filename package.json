@@ -1,0 +1,26 @@
+{
+  "name": "cosmos",
+  "version": "1.0.0",
+  "description": "一个简单的区块链应用，基于CosmJS，具有基本的挖矿和交易功能",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["blockchain", "cryptocurrency", "cosmjs", "mining", "transactions"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cosmjs/stargate": "^0.31.1",
+    "@cosmjs/crypto": "^0.31.1",
+    "@cosmjs/encoding": "^0.31.1",
+    "@cosmjs/amino": "^0.31.1",
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2",
+    "crypto-js": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
